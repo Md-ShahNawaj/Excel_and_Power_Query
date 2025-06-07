@@ -8,6 +8,24 @@ Includes:
 - `Excel Basics.xlsx` – My worked file with formulas, pivot tables, and charts
 - `Excel Basics- Fresh File.xlsx` – The original raw Excel file
 
+## 📸 Screenshots
+
+### 📊 1. Product Sales Summary (Pivot Table + Combo Chart)
+
+A pivot table showing total sales and units sold per product, visualized with a combination of bar and line chart:
+
+![Product Sales Chart](https://github.com/Md-ShahNawaj/Excel_and_Power_Query/blob/main/Excel/Basic%20Excel/pivot_table_chart.png)
+
+---
+
+### 🏢 2. Department Expense Breakdown (Pivot Table + Bar Chart)
+
+Analyzes office expenses by department and category using a nested pivot table and vertical bar chart:
+
+![Department Expenses Chart](https://github.com/Md-ShahNawaj/Excel_and_Power_Query/blob/main/Excel/Basic%20Excel/Department_Expense_Breakdown.png)
+
+
+
 ## ✅ Skills Demonstrated
 
 - 🔍 `XLOOKUP`, `INDEX`, and structured referencing
